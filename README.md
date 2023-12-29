@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankanand2701&" alt="mayankanand2701" /></p>
 <br>
-[![An image of @mayankanand2701's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayankanand2701)](https://holopin.io/@mayankanand2701)
+[![@mayankanand2701's Holopin board] (https://holopin.io/api/user/board?user=mayankanand2701)] (https://holopin.io/@mayankanand2701)
