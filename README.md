@@ -55,9 +55,8 @@
 <h2 align="center">⚡ Statistics ⚡</h2>
 <br>
 <div align=center>
-  <img width=460 src="https://github-readme-streak-stats.herokuapp.com/?user=mayankanand2701&theme=react" alt="mayankanand2701" />
-  <img width=435 src="https://github-readme-stats.vercel.app/api?username=mayankanand2701&show_icons=true&locale=en&theme=react" alt="mayankanand2701" />
-<!--   <br><br> -->
+  <img width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=mayankanand2701&theme=react" alt="mayankanand2701" />
+  <img width=425 src="https://github-readme-stats.vercel.app/api?username=mayankanand2701&show_icons=true&locale=en&theme=react" alt="mayankanand2701" />
   <img width=400 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankanand2701&show_icons=true&locale=en&layout=compact&theme=react" alt="mayankanand2701" />
 </div>
 
