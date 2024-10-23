@@ -63,6 +63,12 @@
 <br/><br/>
 
 <hr/>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankanand2701" alt="mayankanand2701" /></a> </p>
+
+<br/><br/>
+<hr/>
 <h2 align="center">🔥 Badges 🔥</h2>
 <br>
 
